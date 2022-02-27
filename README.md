@@ -1,7 +1,7 @@
 # esx_banking
 Fivem esx_banking by WoroWoro#3229
 
-**ORGINALNY SKRYPT https://github.com/Tazi0/new_banking**
+ORGINALNY SKRYPT https://github.com/Tazi0/new_banking
 
 # Authors
 
