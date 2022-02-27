@@ -3,7 +3,7 @@
 -- ================================================================================================--
 ESX = nil
 
-TriggerEvent('esx:AkiragetSharedObject', function(obj) ESX = obj end)
+TriggerEvent('esx:getSharedObject', function(obj) ESX = obj end)
 
 RegisterServerEvent('bank:deposit')
 AddEventHandler('bank:deposit', function(amount)
