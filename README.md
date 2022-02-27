@@ -2,6 +2,7 @@
 Fivem esx_banking by WoroWoro#3229
 
 ORGINALNY SKRYPT https://github.com/Tazi0/new_banking
+
 Ja tylko przerobiłem UI ale widziałem że jakiś tym daje to do swojej paczki i można pomyśleć że to jego to się wkurwiłem i macie.
 
 # Authors
