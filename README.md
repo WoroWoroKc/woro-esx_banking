@@ -9,6 +9,11 @@ Fivem esx_banking by WoroWoro#3229
 
 * AkiraRP https://dc.akirarp.pl
 
+# Preview:
+![loadingscreen](https://tanieddosy.pl/banki/1.png)
+![loadingscreen](https://tanieddosy.pl/banki/2.png)
+![loadingscreen](https://tanieddosy.pl/banki/3.png)
+
 # Install:
 
 * Go to resources
